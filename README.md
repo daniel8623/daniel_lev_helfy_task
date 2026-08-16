@@ -33,5 +33,7 @@ A Full-Stack task management application featuring an animated task carousel
 
 - Backend API: ~45 minutes
 - Frontend: ~90 minutes
-- Carousel logic: ~90 minutes
-- styling and debugging: ~45 minutes
+- Carousel logic: ~60 minutes
+- styling and debugging: ~40 minutes
+
+<img width="1024" height="669" alt="App" src="https://github.com/user-attachments/assets/7881e250-c7f4-4cc5-9888-e5e143931b10" />
