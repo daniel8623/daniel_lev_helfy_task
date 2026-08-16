@@ -1,4 +1,3 @@
-<img width="1024" height="669" alt="App" src="https://github.com/user-attachments/assets/7881e250-c7f4-4cc5-9888-e5e143931b10" />
 # Task Manager App
 
 A Full-Stack task management application featuring an animated task carousel
