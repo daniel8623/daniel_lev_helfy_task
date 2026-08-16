@@ -15,7 +15,7 @@ router.post('/', validateTask, (req,res) => {
         description: req.body.description || '',
         priority: req.body.priority || 'low',
         completed: false,
-        createdAt: newDate()
+        createdAt: new Date()
     };
     tasks.push(newTask);
     res.status(201).json(newTask);
